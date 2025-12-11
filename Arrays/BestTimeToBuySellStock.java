@@ -19,3 +19,22 @@ class Solution {
         return maxProfit;
     }
 }
+
+//Solution 2 same logic naming difference
+class Solution {
+    public int maxProfit(int[] prices) {
+         int n= prices.length;
+         int buy_prices=Integer.MAX_VALUE;
+         int maxProfit=0;
+
+         for(int i=0;i<n;i++){
+            int current_profit=prices[i]-buy_prices;
+            if(current_profit>maxProfit){
+                maxProfit=current_profit;
+            }else if(prices[i]<buy_prices){
+                buy_prices=prices[i];
+            }
+         }
+         return maxProfit;
+    }
+}
