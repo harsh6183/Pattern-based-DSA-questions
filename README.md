@@ -11,11 +11,11 @@ A structured month-wise and pattern-wise interview preparation repository.
 
 ### ✅ Solved Questions (Day-Wise Progress)
 
-| Day | Question Name |    
-|-----|--------------|    
-| 01 Jan 2026 | 167. Two Sum II - Input Array Is Sorted
-26. Remove Duplicates from sorted Array | LeetCode | Medium |  
-| 02 Jan 2026 | Example Question 2 | CodeStudio | Medium |
+| Day | Question Name | 
+|-----|--------------|
+| 01 Jan 2026 | 167. Two Sum II – Input Array Is Sorted |
+| 01 Jan 2026 | 26. Remove Duplicates from Sorted Array |
+| 02 Jan 2026 | — | — | — | — | — |
 | 03 Jan 2026 | — | — | — | — | — |
 
 
