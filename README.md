@@ -17,16 +17,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 02 Jan 2026 | Example Question 2 | CodeStudio | Medium |
 | 03 Jan 2026 | — | — | — | — | — |
 
-> You can keep adding rows daily 👆
 
----
-
-### 🧠 Concepts Covered
-- Left & Right pointer movement
-- Fast & Slow pointers
-- Pair sum / triplet sum variations
-- Palindrome check using 2 pointers
-- Sliding window + 2 pointer hybrid problems
 
 ---
 
