@@ -14,7 +14,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | Day | Question Name | 
 |-----|--------------|
 | 01 Jan 2026 | 167. Two Sum II – Input Array Is Sorted |
-| 01 Jan 2026 | 26. Remove Duplicates from Sorted Array |
+| - | 26. Remove Duplicates from Sorted Array |
+| - | 11. Container With Most Water |
 | 02 Jan 2026 | — | — | — | — | — |
 | 03 Jan 2026 | — | — | — | — | — |
 
