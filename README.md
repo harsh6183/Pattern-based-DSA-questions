@@ -1,2 +1,2 @@
-Top Interview Pattern based questions.  
-Dec 10 : Arrays 5 Questions
+Top Interview Pattern based questions 2026   
+1st Jan : Two Pointers approach based questions.  
