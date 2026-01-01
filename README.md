@@ -11,10 +11,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 
 ### ✅ Solved Questions (Day-Wise Progress)
 
-| Day | Question Name | Platform | Difficulty | Link | Approach / Notes |
+| Day | Question Name | Platform | Difficulty |
 |-----|--------------|----------|------------|------|------------------|
-| 01 Jan 2026 | Example Question 1 | LeetCode | Easy | [Problem Link]() | Brief note about approach |
-| 02 Jan 2026 | Example Question 2 | CodeStudio | Medium | [Problem Link]() | Used left/right pointer technique |
+| 01 Jan 2026 | 167. Two Sum II - Input Array Is Sorted | LeetCode | Medium | 
+| 02 Jan 2026 | Example Question 2 | CodeStudio | Medium |
 | 03 Jan 2026 | — | — | — | — | — |
 
 > You can keep adding rows daily 👆
