@@ -5,7 +5,7 @@ class Solution {
         int right =height.length-1;
 
         while(left<right){
-            int curArea = Math.min(height[left],height[right]) * (right-left);
+            int curArea = Math.min(height[left],height[right]) * (right-left);   //Calculating Area using Height of bar and breadth of bar
              maxArea=Math.max(curArea,maxArea);
 
             if(height[left]<height[right]){
