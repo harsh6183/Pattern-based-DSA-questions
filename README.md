@@ -20,7 +20,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 02 Jan 2026 |15. 3Sum|
 | - |344. Reverse String |
 | - |977. Squares of a Sorted Array |
-| - |  |
+| - | 75. Sort Colors |
+| - | 75. Sort Colors |
 | 03 Jan 2026 | — | — | — | — | — |
 
 
