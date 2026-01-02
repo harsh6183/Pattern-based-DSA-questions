@@ -22,6 +22,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |977. Squares of a Sorted Array |
 | - | 75. Sort Colors |
 | - |713. Sum of product of k|
+| - |42. Trapping Rain Water(IMP)|
 | 03 Jan 2026 | — | — | — | — | — |
 
 
