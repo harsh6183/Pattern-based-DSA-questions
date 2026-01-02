@@ -18,6 +18,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - | 11. Container With Most Water |
 | - | 283. Move Zeroes |
 | 02 Jan 2026 |15. 3Sum|
+| - |344. Reverse String |
+| - | |
+| - |  |
 | 03 Jan 2026 | — | — | — | — | — |
 
 
