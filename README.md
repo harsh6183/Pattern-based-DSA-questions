@@ -21,7 +21,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |344. Reverse String |
 | - |977. Squares of a Sorted Array |
 | - | 75. Sort Colors |
-| - | 75. Sort Colors |
+| - |713. Sum of product of k|
 | 03 Jan 2026 | — | — | — | — | — |
 
 
