@@ -17,7 +17,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - | 26. Remove Duplicates from Sorted Array |
 | - | 11. Container With Most Water |
 | - | 283. Move Zeroes |
-| 02 Jan 2026 | — | — | — | — | — |
+| 02 Jan 2026 |15. 3Sum|
 | 03 Jan 2026 | — | — | — | — | — |
 
 
