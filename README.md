@@ -23,7 +23,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - | 75. Sort Colors |
 | - |713. Sum of product of k|
 | - |42. Trapping Rain Water(IMP)|
-| 03 Jan 2026 | — | — | — | — | — |
+| 03 Jan 2026 | Sliding Window |
+| - |3. Longest Substring Without Repeating Characters(IMP) |
+| - |209. Minimum Size Subarray Sum |
+| - |30. Substring with Concatenation of All Words(IMP) |
 
 
 
