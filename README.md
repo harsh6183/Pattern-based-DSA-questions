@@ -27,6 +27,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |3. Longest Substring Without Repeating Characters(IMP) |
 | - |209. Minimum Size Subarray Sum |
 | - |30. Substring with Concatenation of All Words(IMP) |
+| 05 Jan 2026 | HashMap and DP single question each|
+| - |383. Ransom Note |
+| - |198. House Robber |
 
 
 
