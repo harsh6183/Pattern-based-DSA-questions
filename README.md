@@ -31,6 +31,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |383. Ransom Note |
 | - |205. Isomorphic Strings |
 | - |198. House Robber |
+| 06 Jan 2026 | HashMap|
+| - |290. Word Pattern |
+| - |242. Valid Anagram |
+| - |1. Two Sum|
 
 
 
