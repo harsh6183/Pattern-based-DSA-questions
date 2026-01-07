@@ -31,10 +31,15 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |383. Ransom Note |
 | - |205. Isomorphic Strings |
 | - |198. House Robber |
-| 06 Jan 2026 | HashMap|
+| 06 Jan 2026 | HashMap(2) Array (1)|
 | - |290. Word Pattern |
-| - |242. Valid Anagram |
 | - |1. Two Sum|
+| - |242. Valid Anagram |
+| 07 Jan 2026 | Fast and Slow pointer|
+| - |290. Word Pattern |
+| - |1. Two Sum|
+| - |242. Valid Anagram |
+
 
 
 
