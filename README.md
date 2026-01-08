@@ -44,6 +44,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |202. Happy Number|
 | - |876. Middle of the Linked List |
 | - |142. Linked List Cycle II |
+| 0 Jan 2026 | Fast and Slow pointer()|
+| - |287. Find the Duplicate Number |
 
 
 
