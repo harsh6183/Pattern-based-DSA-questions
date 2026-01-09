@@ -44,9 +44,12 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |202. Happy Number|
 | - |876. Middle of the Linked List |
 | - |142. Linked List Cycle II |
-| 8 Jan 2026 | Fast and Slow pointer()|
+| 8 Jan 2026 | Fast and Slow pointer(2)|
 | - |287. Find the Duplicate Number |
 | - |234. Palindrome Linked List |
+| 9 Jan 2026 | Fast and Slow pointer(1)|
+| - |2130. Maximum Twin Sum of a Linked List |
+| - | |
 
 
 
