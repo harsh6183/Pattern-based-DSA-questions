@@ -54,7 +54,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |747. Largest Number At Least Twice of Others |
 | - |66. Plus One |
 | - |118.Move Zeroes |
-| 11 Jan 2026| Array and String based questions(4) |
+| 11 Jan 2026| Slinding Window |
+| - |2461. Maximum Sum of Distinct Subarrays With Length K |
 
 
 
