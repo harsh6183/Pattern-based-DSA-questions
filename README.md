@@ -35,12 +35,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |290. Word Pattern |
 | - |1. Two Sum|
 | - |242. Valid Anagram |
-| 07 Jan 2026 | Fast and Slow pointer(3)|
+| 07 Jan 2026 | Fast and Slow pointer(6)|
 | - |290. Word Pattern |
 | - |1. Two Sum|
 | - |242. Valid Anagram |
-| 07 Jan 2026 | Fast and Slow pointer(4)|
-| - |290. Word Pattern |
 | - |202. Happy Number|
 | - |876. Middle of the Linked List |
 | - |142. Linked List Cycle II |
