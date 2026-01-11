@@ -49,7 +49,12 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |234. Palindrome Linked List |
 | 9 Jan 2026 | Fast and Slow pointer(1)|
 | - |2130. Maximum Twin Sum of a Linked List |
-| - | |
+| 10 Jan 2026| Array and String based questions(4) |
+| - |724.Find Pivot Index |
+| - |747. Largest Number At Least Twice of Others |
+| - |66. Plus One |
+| - |118.Move Zeroes |
+| 11 Jan 2026| Array and String based questions(4) |
 
 
 
