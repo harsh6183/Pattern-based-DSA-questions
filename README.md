@@ -58,6 +58,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |2461. Maximum Sum of Distinct Subarrays With Length K |
 | 12 Jan 2026| Slinding Window |
 | - |219. Contains Duplicate II |
+| - |643. Maximum Average Subarray I|
 
 
 
