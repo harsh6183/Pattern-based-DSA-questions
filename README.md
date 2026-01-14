@@ -60,8 +60,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |3. Longest Substring Without Repeating Characters|
 | 13 Jan 2026| Slinding Window |
 | - |187. Repeated DNA Sequences |
-| 14 Jan 2026| Slinding Window |
+| 14 Jan 2026| Slinding Window(1) and DP based question(1) |
 | - |904. Fruit Into Baskets |
+| - |1137. N-th Tribonacci Number |
+
 
 
 
