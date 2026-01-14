@@ -58,6 +58,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |219. Contains Duplicate II |
 | - |643. Maximum Average Subarray I|
 | - |3. Longest Substring Without Repeating Characters|
+| 13 Jan 2026| Slinding Window |
+| - |2461. Maximum Sum of Distinct Subarrays With Length K |
+| 14 Jan 2026| Slinding Window |
+| - |904. Fruit Into Baskets |
 
 
 
