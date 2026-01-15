@@ -63,6 +63,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 14 Jan 2026| Slinding Window(1) and DP based question(1) |
 | - |904. Fruit Into Baskets |
 | - |1137. N-th Tribonacci Number |
+| 15 Jan 2026| LinkedList(2 questions) |
+| - |2. Add Two Numbers |
+| - |19. Remove Nth Node From End of List |
 
 
 
