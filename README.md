@@ -66,7 +66,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 15 Jan 2026| LinkedList(2 questions) |
 | - |2. Add Two Numbers |
 | - |19. Remove Nth Node From End of List |
-
+| 16 Jan 2026| 1 DP question |
+| - |740. Delete and Earn |
+| 17 Jan 2026| No question solved |
+| 18 Jan 2026| Started with new Pattern Interval Pattern |
 
 
 
