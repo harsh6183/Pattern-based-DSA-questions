@@ -70,6 +70,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |740. Delete and Earn |
 | 17 Jan 2026| No question solved |
 | 18 Jan 2026| Started with new Pattern Interval Pattern |
+| - |56. Merge Intervals |
 
 
 
