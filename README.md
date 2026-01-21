@@ -74,6 +74,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 19 Jan 2026| Interval Pattern(2) |
 | - |3169. Count Days Without Meetings |
 | - |986. Interval List Intersections |
+| 20 Jan 2026|No DSA question solved |
+| 21 Jan 2026| 350. Intersection of Two Arrays II |
 
 
 
