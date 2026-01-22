@@ -76,6 +76,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |986. Interval List Intersections |
 | 20 Jan 2026|No DSA question solved |
 | 21 Jan 2026| 350. Intersection of Two Arrays II |
+| 22 Jan 2026| HashMap 2 IMP questions(2) |
+| - | 347. Top K Frequent Elements |
+| - | 560. Subarray Sum Equals K.java |
+
 
 
 
