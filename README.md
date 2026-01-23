@@ -79,6 +79,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 22 Jan 2026| HashMap 2 IMP questions(2) |
 | - | 347. Top K Frequent Elements |
 | - | 560. Subarray Sum Equals K.java |
+| 23 Jan 2026| Intevals pattern based questions |
+| - | 1288. Remove Covered Intervals |
+| - |729. My Calendar I |
 
 
 
