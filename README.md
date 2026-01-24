@@ -82,9 +82,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 23 Jan 2026| Intevals pattern based questions |
 | - | 1288. Remove Covered Intervals |
 | - |729. My Calendar I |
-| 24 Jan 2026| Starting with the Heap Pattern|
-| - |  |
-| - ||
+| 24 Jan 2026| Starting with the Heap Pattern (2)|
+| - | 1046. Largest Stone |
+| - |2231. Largest Number After Digit Swaps by Parity|
 
 
 
