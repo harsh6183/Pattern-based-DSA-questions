@@ -85,6 +85,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 24 Jan 2026| Starting with the Heap Pattern (2)|
 | - | 1046. Largest Stone |
 | - |2231. Largest Number After Digit Swaps by Parity|
+| 24 Jan 2026| Heap Pattern (2)|
+| - |1405. Longest Happy String |
+| - ||
 
 
 
