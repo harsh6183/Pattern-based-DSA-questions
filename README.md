@@ -98,6 +98,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |213. House Robber 2 |
 
 ## 📅 February 2026  
+| Day | Question Name | 
+|-----|--------------|
 | 1 Feb 2026| Stack based problems (2)|
 
 
