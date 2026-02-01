@@ -85,9 +85,18 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 24 Jan 2026| Starting with the Heap Pattern (2)|
 | - | 1046. Largest Stone |
 | - |2231. Largest Number After Digit Swaps by Parity|
-| 24 Jan 2026| Heap Pattern (2)|
+| 25 Jan 2026| Heap Pattern (2)|
 | - |1405. Longest Happy String |
-| - ||
+| 26 Jan 2026| Heap Pattern (2)|
+| - |1405. Longest Happy String|
+| 27 Jan 2026| Heap Pattern (2)|
+| - |215. Kth Largest Element in an Array|
+| 28 Jan 2026| DP and Recursion(2)|
+| - |509. Fibonacci Number|
+| - |70. Climbing stairs|
+| 31 Jan 2026| DP (1)|
+| - |213. House Robber 2 |
+| 1 Feb 2026| Stack based problems (2)|
 
 
 
