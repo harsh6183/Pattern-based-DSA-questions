@@ -96,22 +96,13 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |70. Climbing stairs|
 | 31 Jan 2026| DP (1)|
 | - |213. House Robber 2 |
+
+## 📅 February 2026  
 | 1 Feb 2026| Stack based problems (2)|
 
 
 
 
-
-
----
-
-### 🏁 Target for this Month
-| Goal | Count |
-|------|-------|
-| Total Questions | 60 |
-| Easy | 20 |
-| Medium | 30 |
-| Hard | 10 |
 
 ---
 
