@@ -101,6 +101,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | Day | Question Name | 
 |-----|--------------|
 | 1 Feb 2026| Stack based problems (2)|
+| - |150. Evaluate Reverse Polish Notation|
+| - |Simplify Path|
+| 2 Feb 2026| Stack based problems (1)|
+| - |224. Basic Calculator |
 
 
 
