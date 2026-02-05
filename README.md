@@ -105,10 +105,12 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |Simplify Path|
 | 2 Feb 2026| Stack based problems (1)|
 | - |224. Basic Calculator |
-| 3 Feb 2026| Stack based problems (1)|
+| 3 Feb 2026| Stack based problems (2)|
 | - |84. Largest Rectangle in Histogram|
 | - |85. Maximal Rectangle|
 
+| 5 Feb 2026| Stack based problems (1)|
+| - |2000. Reverse Prefix of Word|
 
 
 
