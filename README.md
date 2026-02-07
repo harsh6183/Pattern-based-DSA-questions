@@ -113,7 +113,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |2000. Reverse Prefix of Word|
 | 6 Feb 2026|String based(1)|
 | - |165. Compare Version Numbers|
-
+| 7 Feb 2026|String based(1)|
+| - |3110. Score of a String|
 
 
 
