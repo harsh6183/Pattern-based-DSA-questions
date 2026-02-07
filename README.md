@@ -108,14 +108,14 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 3 Feb 2026| Stack based problems (2)|
 | - |84. Largest Rectangle in Histogram|
 | - |85. Maximal Rectangle|
-
 | 5 Feb 2026| Stack based problems (1)|
 | - |2000. Reverse Prefix of Word|
 | 6 Feb 2026|String based(1)|
 | - |165. Compare Version Numbers|
-| 7 Feb 2026|String based(1)|
+| 7 Feb 2026|String based(3)|
 | - |3110. Score of a String|
-
+| - |409. Longest Palindrome|
+| - |1002. Find Common Characters|
 
 
 ---
