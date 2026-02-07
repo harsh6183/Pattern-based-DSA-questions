@@ -111,6 +111,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 
 | 5 Feb 2026| Stack based problems (1)|
 | - |2000. Reverse Prefix of Word|
+| 6 Feb 2026|String based(1)|
+| - |165. Compare Version Numbers|
 
 
 
