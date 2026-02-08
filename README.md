@@ -116,6 +116,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |3110. Score of a String|
 | - |409. Longest Palindrome|
 | - |1002. Find Common Characters|
+| 8 Feb 2026|Heap based(2)|
+| - |451. Sort Characters By Frequency|
+| - |502. IPO|
 
 
 ---
