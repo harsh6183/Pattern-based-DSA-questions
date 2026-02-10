@@ -119,6 +119,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 8 Feb 2026|Heap based(2)|
 | - |451. Sort Characters By Frequency|
 | - |502. IPO|
+| 9 Feb 2026|HashMap based(1)|
+| - |49. Group Anagrams|
+| 10 Feb 2026|Interval based(1)|
+| - |228. Summary Ranges|
 
 
 ---
