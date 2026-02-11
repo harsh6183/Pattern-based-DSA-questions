@@ -13,3 +13,35 @@ class Solution {
         }
     }
 }
+
+
+//Two pointer approach
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        
+
+        //Time comp O(m+N) space O(1)
+        ListNode l1 = new ListNode(-1);
+        ListNode current = l1;
+
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                current.next = list1;
+                list1 = list1.next;
+            } else {
+                current.next = list2;
+                list2 = list2.next;
+            }
+            current = current.next;
+        }
+
+        // Attach remaining nodes
+        if (list1 != null) {
+            current.next = list1;
+        } else {
+            current.next = list2;
+        }
+
+        return l1.next;
+    }
+}
