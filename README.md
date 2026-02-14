@@ -4,10 +4,6 @@ A structured month-wise and pattern-wise interview preparation repository.
 ---
 
 ## 📅 January 2026  
-### 🔹 Pattern: Two Pointers Approach  
-📁 Reference Sheet: [Two Pointers Questions PDF](https://drive.google.com/file/d/1p29hHuDFLHO0dFLfKj3l7zgCae23fADg/view)
-
----
 
 ### ✅ Solved Questions (Day-Wise Progress)
 
@@ -123,8 +119,11 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |49. Group Anagrams|
 | 10 Feb 2026|Interval based(1)|
 | - |228. Summary Ranges|
-
-
+| 11 Feb 2026|LinkedList(1)|
+| - |228. Summary Ranges|
+| 13 Feb 2026|Binary Tree(2)|
+| - |100. Same Tree|
+| - |513. Find Bottom Left Tree Value|
 ---
 
 
