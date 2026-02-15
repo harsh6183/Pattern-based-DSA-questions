@@ -124,6 +124,12 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 13 Feb 2026|Binary Tree(2)|
 | - |100. Same Tree|
 | - |513. Find Bottom Left Tree Value|
+| 14 Feb 2026|Binary Tree(2)|
+| - |100. Same Tree|
+| - |623. Add One Row to Tree|
+| 15 Feb 2026|Binary Tree(2)|
+| - |988. Smallest String Starting From Leaf|
+| - |2331. Evaluate Boolean Binary Tree|
 ---
 
 
