@@ -131,6 +131,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |988. Smallest String Starting From Leaf|
 | - |2331. Evaluate Boolean Binary Tree|
 | - |1325. Delete Leaves With a Given Value|
+| 16 Feb 2026|Binary Tree(2)|
+| - |124. Binary Tree Maximum Path Sum|
+| - |979. Distribute Coins in Binary Tree|
 ---
 
 
