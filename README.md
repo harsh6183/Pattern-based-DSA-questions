@@ -134,6 +134,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 16 Feb 2026|Binary Tree(2)|
 | - |124. Binary Tree Maximum Path Sum|
 | - |979. Distribute Coins in Binary Tree|
+| 17 Feb 2026|Binary Tree(2)|
+| - |1598. Crawler Log Folder|
+| - |2196. Create Binary Tree From Descriptions|
 ---
 
 
