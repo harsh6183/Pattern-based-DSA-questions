@@ -137,6 +137,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 17 Feb 2026|Binary Tree(2)|
 | - |1598. Crawler Log Folder|
 | - |2196. Create Binary Tree From Descriptions|
+| 18 Feb 2026|Sorting|
+| - |2037. Minimum Number of Moves to Seat Everyone|
+
 ---
 
 
