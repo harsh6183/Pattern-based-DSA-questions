@@ -2,6 +2,7 @@ class Solution {
     public int maximumBags(int[] capacity, int[] rocks, int additionalRocks) {
         //One of finest and easiest question ever solved 
         //Greedy approach
+        //Time O(nLogN)
 
         int n = rocks.length;
         int difference[]= new int[n];
