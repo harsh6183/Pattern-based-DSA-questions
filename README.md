@@ -144,7 +144,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |452. Minimum Number of Arrows to Burst Balloons|
 | 22 Feb 2026|Greedy(2)|
 | - |1710. Maximum Units on a Truck|
-| - ||
+| - |2279. Maximum Bags With Full Capacity of Rocks|
 
 ---
 
