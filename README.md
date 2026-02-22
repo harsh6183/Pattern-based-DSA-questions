@@ -146,7 +146,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |1710. Maximum Units on a Truck|
 | - |2279. Maximum Bags With Full Capacity of Rocks|
 | - |45. Jump Game II and 55. Jump Game I|
-| - |322. Coin Change****IMP***|
+| - |322. Coin Change **IMP** |
 
 ---
 
