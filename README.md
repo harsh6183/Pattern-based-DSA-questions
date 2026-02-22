@@ -139,9 +139,12 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |2196. Create Binary Tree From Descriptions|
 | 18 Feb 2026|Sorting|
 | - |2037. Minimum Number of Moves to Seat Everyone|
-| 21 Feb 2026|Greedy|
+| 21 Feb 2026|Greedy(2)|
 | - |435. Non-overlapping Intervals|
 | - |452. Minimum Number of Arrows to Burst Balloons|
+| 22 Feb 2026|Greedy(2)|
+| - |1710. Maximum Units on a Truck|
+| - ||
 
 ---
 
