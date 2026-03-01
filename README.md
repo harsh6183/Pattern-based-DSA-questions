@@ -154,4 +154,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |648. Replace Words |
 ---
 
+## 📅 March 2026  
+| Day | Question Name | 
+|-----|--------------|
+| 1 March 2026| Arrays and String based(2))|
+| - |150. Evaluate Reverse Polish Notation2419. Longest Subarray With Maximum Bitwise AND|
+| - |1310. XOR Queries of a Subarray|
 
