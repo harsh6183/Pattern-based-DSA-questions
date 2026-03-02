@@ -160,4 +160,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 1 March 2026| Arrays and String based(2))|
 | - |150. Evaluate Reverse Polish Notation2419. Longest Subarray With Maximum Bitwise AND|
 | - |1310. XOR Queries of a Subarray|
+| 1 March 2026| Binary search(2))|
+| - |704. Binary search|
+| - |34. Find First and Last Position of Element in Sorted Array|
+
+
 
