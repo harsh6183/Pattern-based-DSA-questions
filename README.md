@@ -167,8 +167,14 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |374. Guess Number Higher or Lower|
 | 4 March 2026| Binary search(1))|
 | - |69. Sqrt(x)|
-| 5 March 2026| Binary search(3))|
-| - |658. Find K Closest Elements.java|
+| 5 March 2026| Binary search(1))|
+| - |658. Find K Closest Elements|
+| 5 March 2026| Binary search(2))|
+| - |153. Find Minimum in Rotated Sorted Array|
+|-|162. Find Peak Element|
+|7 March 2026| DP (1))|
+| - |873. Length of Longest Fibonacci Subsequence|
+
 
 
 
