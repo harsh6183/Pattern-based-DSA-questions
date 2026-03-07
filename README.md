@@ -172,9 +172,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 5 March 2026| Binary search(2))|
 | - |153. Find Minimum in Rotated Sorted Array|
 |-|162. Find Peak Element|
-|7 March 2026| DP (1))|
+|7 March 2026| DP (1)) and Tree(1)|
 | - |873. Length of Longest Fibonacci Subsequence|
-
+| - |101. Symmetric Tree|
 
 
 
