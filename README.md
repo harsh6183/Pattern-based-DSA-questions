@@ -179,9 +179,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |112. Path Sum|
 | - |105. Construct Binary Tree from Preorder and Inorder Traversal|
 | - |106. Construct Binary Tree from Inorder and Postorder Traversal|
-|9 March 2026| Tree(1)|
+|9 March 2026| Tree(2)|
 | - |222. Count Complete Tree Nodes|
-| - ||
+| - |117. Populating Next Right Pointers in Each Node II|
 
 
 
