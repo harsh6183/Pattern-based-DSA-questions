@@ -169,12 +169,19 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |69. Sqrt(x)|
 | 5 March 2026| Binary search(1))|
 | - |658. Find K Closest Elements|
-| 5 March 2026| Binary search(2))|
+| 5 March 2026| Binary search(1))|
 | - |153. Find Minimum in Rotated Sorted Array|
 |-|162. Find Peak Element|
 |7 March 2026| DP (1)) and Tree(1)|
 | - |873. Length of Longest Fibonacci Subsequence|
 | - |101. Symmetric Tree|
+|8 March 2026| Tree(3)|
+| - |112. Path Sum|
+| - |105. Construct Binary Tree from Preorder and Inorder Traversal|
+| - |106. Construct Binary Tree from Inorder and Postorder Traversal|
+|9 March 2026| Tree(1)|
+| - |222. Count Complete Tree Nodes|
+| - ||
 
 
 
