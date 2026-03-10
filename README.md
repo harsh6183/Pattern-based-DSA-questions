@@ -182,6 +182,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 |9 March 2026| Tree(2)|
 | - |222. Count Complete Tree Nodes|
 | - |117. Populating Next Right Pointers in Each Node II|
+|10 March 2026| Graph (BFS)Tree(2)|
+| - |199. Binary Tree Right Side View|
+| - |117. Populating Next Right Pointers in Each Node II|
 
 
 
