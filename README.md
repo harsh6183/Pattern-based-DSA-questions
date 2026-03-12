@@ -187,8 +187,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |637. Average of Levels in Binary Tree|
 | - |102. Binary Tree Level Order Traversal|
 | - |103. Binary Tree Zigzag Level Order Traversal|
-|11 March 2026| Binary search Tree(2)|
+|11 March 2026| Binary search Tree(1)|
 | - |530. Minimum Absolute Difference in BST|
+|12 March 2026| Binary search Tree(2)|
+| - |98. Validate Binary Search Tree|
 | - |230. Kth Smallest Element in a BST|
 
 
