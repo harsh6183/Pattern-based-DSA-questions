@@ -189,7 +189,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |103. Binary Tree Zigzag Level Order Traversal|
 |11 March 2026| Binary search Tree(2)|
 | - |530. Minimum Absolute Difference in BST|
-| - |117. Populating Next Right Pointers in Each Node II|
+| - |230. Kth Smallest Element in a BST|
 
 
 
