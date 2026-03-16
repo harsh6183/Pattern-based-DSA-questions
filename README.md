@@ -202,6 +202,5 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |133. Clone Graph|
 |16 March 2026| Bit Manupulation(2)|
 | - |67. Add Binary|
-
-
+| - |190. Reverse Bits|
 
