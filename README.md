@@ -203,4 +203,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 |16 March 2026| Bit Manupulation(2)|
 | - |67. Add Binary|
 | - |190. Reverse Bits|
+|17 March 2026| Bit Manupulation(2)|
+| - |191. Number of 1 Bits|
+| - |190. Reverse Bits|
+
 
