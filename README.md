@@ -203,10 +203,13 @@ A structured month-wise and pattern-wise interview preparation repository.
 |16 March 2026| Bit Manupulation(2)|
 | - |67. Add Binary|
 | - |190. Reverse Bits|
-|17 March 2026| Bit Manupulation(2)|
+|17 March 2026| Bit Manupulation(3)|
 | - |191. Number of 1 Bits|
 | - |201. Bitwise AND of Numbers Range|
 | - |137. Single Number II|
+|18 March 2026| Matrix IMP(2)|
+| - |36. Valid Sudoku|
+| - |54. Spiral Matrix|
 
 
 
