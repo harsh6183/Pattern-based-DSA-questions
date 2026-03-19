@@ -212,6 +212,6 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |54. Spiral Matrix|
 |19 March 2026| Matrix IMP(2)|
 | - |48. Rotate Image|
-
+| - |73. Set Matrix Zeroes|
 
 
