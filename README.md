@@ -213,5 +213,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 |19 March 2026| Matrix IMP(2)|
 | - |48. Rotate Image|
 | - |73. Set Matrix Zeroes|
+|20 March 2026| Matrix IMP|
+| - |289. Game of Life|
 
 
