@@ -215,5 +215,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |73. Set Matrix Zeroes|
 |20 March 2026| Matrix IMP|
 | - |289. Game of Life|
+|21 March 2026|Greedy(1) and Tree(BST 1) IMP|
+| - |108. Convert Sorted Array to Binary Search Tree|
+| - |881. Boats to Save People|
 
 
