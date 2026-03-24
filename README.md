@@ -223,6 +223,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 |23 March 2026|BackTracking (2)IMP|
 | - |77. Combinations|
 | - |46. Permutations|
+|24 March 2026|BackTracking (2)IMP|
+| - |39. Combination Sum|
+| - |46. Permutations|
 
 
 
