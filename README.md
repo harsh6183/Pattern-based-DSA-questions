@@ -228,7 +228,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |51. N-queens|
 |26 March 2026|Binary Tree|
 | - |110. Balanced Binary Tree|
-| - |46. Permutations|
+| - |111. Minimum Depth of Binary Tree|
 
 
 
