@@ -225,6 +225,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |46. Permutations|
 |24 March 2026|BackTracking (2)IMP|
 | - |39. Combination Sum|
+| - |51. N-queens|
+|26 March 2026|Binary Tree|
+| - |39. Combination Sum|
 | - |46. Permutations|
 
 
