@@ -229,6 +229,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 |26 March 2026|Binary Tree|
 | - |110. Balanced Binary Tree|
 | - |111. Minimum Depth of Binary Tree|
+|29 March 2026|Easy questions Based on Arrays and Strings|
+| - |2864. Maximum Odd Binary Number|
+| - |2574. Left and Right Sum Differences|
 
 
 
