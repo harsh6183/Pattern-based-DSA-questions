@@ -238,7 +238,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | Day | Question Name | 
 |-----|--------------|
 | 1 April 2026| Microsoft based questions|
-| - |150. Evaluate Reverse Polish Notation2419. Longest Subarray With Maximum Bitwise AND|
+| - |557. Reverse Words in a String III|
 | - |1310. XOR Queries of a Subarray|
 
 
