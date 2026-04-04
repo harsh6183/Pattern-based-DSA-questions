@@ -237,17 +237,16 @@ A structured month-wise and pattern-wise interview preparation repository.
 ## 📅 April 2026  
 | Day | Question Name | 
 |-----|--------------|
-| 1 April 2026| String and Array |
+| 1 April 2026| String and Array(2) |
 | - |557. Reverse Words in a String III|
 | - |1748. Sum of Unique Elements|
-| 2 April 2026| Linkedlist and matrix based questions|
+| 2 April 2026| Linkedlist and matrix based questions (2)|
 | - |148. Sort List|
 | - |1572. Matrix Diagonal Sum|
-| 3 April 2026| Linkedlist and matrix based questions|
-| - |148. Sort List|
-| - |1572. Matrix Diagonal Sum|
-| 4 April 2026| Linkedlist and matrix based questions|
-| - |148. Sort List|
+| 3 April 2026| DP (1)|
+| - |120. Triangle|
+| 4 April 2026| DP|
+| - |62. Unique Paths|
 | - |1572. Matrix Diagonal Sum|
 ---
 
