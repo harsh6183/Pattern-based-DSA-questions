@@ -245,8 +245,10 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |1572. Matrix Diagonal Sum|
 | 3 April 2026| DP (1)|
 | - |120. Triangle|
-| 4 April 2026| DP|
+| 4 April 2026| DP(4 IMP)|
 | - |62. Unique Paths|
-| - |1572. Matrix Diagonal Sum|
+| - |198. House Robber|
+| - |213. House Robber II|
+| - |337. House Robber III|
 ---
 
