@@ -253,7 +253,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 11 April 2026| DP(2 IMP)|
 | - |300. Longest Increasing Subsequence|
 | - |198. House Robber|
-| 13 April 2026| Greedy(2 IMP)|
+| 13 April 2026| Greedy(1)|
 | - |763. Partition Labels|
+| 14 April 2026| Dp(2 IMP)|
+| - |139. Word Break|
 ---
 
