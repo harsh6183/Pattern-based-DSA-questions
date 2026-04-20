@@ -257,7 +257,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |763. Partition Labels|
 | 14 April 2026| Dp(1 IMP)|
 | - |139. Word Break|
-| 20 April 2026| Array(1)|
+| 20 April 2026| Array(2)|
 | - |31. Next Permutation|
+| - |78. Subsets|
 ---
 
