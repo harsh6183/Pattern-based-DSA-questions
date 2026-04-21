@@ -260,5 +260,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 20 April 2026| Array(2)|
 | - |31. Next Permutation|
 | - |78. Subsets|
+| 20 April 2026| Array(2)|
+| - |268. Missing Number|
+| - |345. Reverse Vowels of a String|
 ---
 
