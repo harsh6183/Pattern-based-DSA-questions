@@ -266,5 +266,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 23 April 2026| Bitwise(2)|
 | - |29. Divide Two Integers|
 | - |345. Reverse Vowels of a String|
+| 27 April 2026| String(2)|
+| - |394. Decode String|
+| - |345. Reverse Vowels of a String|
 ---
 
