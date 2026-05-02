@@ -271,9 +271,12 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |345. Reverse Vowels of a String|
 ---
 
-## 📅 May 2026  
+## 📅 May 2026 260 
 | Day | Question Name | 
 |-----|--------------|
-| 1 May26| String and Array(2) |
+| 1 May26| String and Array(1) |
+| - |303. Range Sum Query - Immutable|
+| 2 May26| String and Array(1) |
+| - |303. Range Sum Query - Immutable|
 ---
 
