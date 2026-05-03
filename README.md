@@ -276,7 +276,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 |-----|--------------|
 | 1 May26| String and Array(1) |
 | - |303. Range Sum Query - Immutable|
-| 2 May26| String and Array(1) |
-| - |303. Range Sum Query - Immutable|
+| 2 May26| Sliding window |
+| - |424. Longest Repeating Character Replacement|
 ---
 
