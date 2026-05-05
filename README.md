@@ -278,5 +278,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |303. Range Sum Query - Immutable|
 | 2 May26| Sliding window |
 | - |424. Longest Repeating Character Replacement|
+| 5 May26| Sliding window(IMP Question) |
+| - |567. Permutation in String|
+
 ---
 
