@@ -92,6 +92,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |70. Climbing stairs|
 | 31 Jan 2026| DP (1)|
 | - |213. House Robber 2 |
+---
 
 ## 📅 February 2026  
 | Day | Question Name | 
