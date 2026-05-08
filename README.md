@@ -285,7 +285,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |Previous questions practice|
 | 5 May26| Sliding window(IMP Question) |
 | - |567. Permutation in String|
-| 5 May26| Sliding window(IMP Question) |
+| 6 May26| Sliding window(IMP Question) |
 | - |1004. Max Consecutive Ones III|
+| 8 May26|LinkedList(IMP Question) |
+| - |2. Add Two Numbers|
 ---
 
