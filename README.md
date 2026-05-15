@@ -7,6 +7,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 
 ### ✅ Solved Questions (Day-Wise Progress)
 
+
 | Day | Question Name | 
 |-----|--------------|
 | 01 Jan 2026 | 167. Two Sum II – Input Array Is Sorted |
