@@ -289,6 +289,6 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |1004. Max Consecutive Ones III|
 | 8 May26|LinkedList(IMP Question) |
 | - |2. Add Two Numbers|
-| 9th May to 19th May no questions solved due to END sem exams|
+| 9th May to 19th May |no questions solved due to END sem exams|
 ---
 
