@@ -295,8 +295,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 22 May26| BitManiplution(2) |
 | - |342. Power of Four|
 | - |231. Power of Two|
-| 23 May26| BitManiplution(2) |
+| 23 May26| BitManiplution(2) and Array(1)|
 | - |389. Find the Difference|
 | - |338. Counting Bits|
+| - |1752. Check if Array Is Sorted and Rotated|
 ---
 
