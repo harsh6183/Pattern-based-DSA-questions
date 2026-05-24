@@ -299,5 +299,8 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |389. Find the Difference|
 | - |338. Counting Bits|
 | - |1752. Check if Array Is Sorted and Rotated|
+| 24 May26| String and Two pointer Anagram based|
+| - |125. Valid Palindrome|
+| - |680. Valid Palindrome II|
 ---
 
