@@ -307,6 +307,5 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |459. Repeated Substring Pattern|
 | 30 May26| Revision on Binary search problems|
 
-| - |459. Repeated Substring Pattern|
 ---
 
