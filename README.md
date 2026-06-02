@@ -308,3 +308,9 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 30 May26| Revision on Binary search problems|
 ---
 
+## 📅 June 2026 270 
+| Day | Question Name | 
+|-----|--------------|
+| 1 June 26| Revision of Leetcode solved problems and Array(1) |
+| 2 June 26| Problems on Tree |
+---
