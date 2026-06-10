@@ -315,5 +315,5 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 2 June 26| Problems on Tree |
 | 7 June 26| Arrays and String based problems |
 | 8 June 26| Arrays and String based problems |
-
+| 9 June 26|Matrix based problmes |
 ---
