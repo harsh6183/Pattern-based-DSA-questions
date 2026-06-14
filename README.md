@@ -316,4 +316,6 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 7 June 26| Arrays and String based problems |
 | 8 June 26| Arrays and String based problems |
 | 9 June 26|Matrix based problmes |
+| 14th June 26|Heap |
+| - |23. Merge k Sorted List|
 ---
