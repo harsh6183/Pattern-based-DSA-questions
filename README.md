@@ -318,4 +318,7 @@ A structured month-wise and pattern-wise interview preparation repository.
 | 9 June 26|Matrix based problmes |
 | 14th June 26|Heap |
 | - |23. Merge k Sorted List|
+| 15th June 26|Kadanes Algorithm and Array|
+| - |53. Maximum Subarray|
+| - |75. Sort Colors|
 ---
