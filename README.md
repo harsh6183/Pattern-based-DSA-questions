@@ -327,4 +327,6 @@ A structured month-wise and pattern-wise interview preparation repository.
 | - |686. Repeated String Match|
 | 23th June 26|Stack and Queue|
 | - |225. Implement Stack using Queues|
+| 23th June 26|Stack and Queue|
+| - |496. Next Greater Element I|
 ---
